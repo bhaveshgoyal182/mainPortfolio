@@ -12,9 +12,15 @@ footer{
 footer i{
   color: #6871eb !important;
 }
+.container{
+  border-radius: 2rem !important;
+}
 .display-6,
 .display-1 {
   color: #17252a;
+}
+#education span {
+  border-bottom: 2px solid #6871eb;
 }
 /* navbar */
 .navbar {
