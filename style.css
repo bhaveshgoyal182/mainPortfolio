@@ -59,12 +59,14 @@ footer i{
   /* height: 250px;/ */
   border: 1px solid #6871eb;
   /* padding: 15px 10px; */
-  background-color: #def2f1;
+  background-color: #6871eb;
+  border-radius: 1em;
 }
 
 #projects article img {
   width: 100%;
   height: 100%;
+  border-radius: 1em;
 }
 
 article .mainContent {
@@ -84,7 +86,7 @@ article .overlayContent {
 }
 
 article .btn {
-  background-color: #6871eb;
+  background-color: #5cf389;
   color: #def2f1;
   font-weight: 600;
 }
